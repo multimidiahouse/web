@@ -110,6 +110,9 @@ body {
     .container-mobile {
         display: block;
     }
+    .content > p {
+        text-align: justify;
+    }
 }
 
 @media (min-width: 641px) {
